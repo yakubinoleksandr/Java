@@ -1,0 +1,14 @@
+2026-11-07 17:02:12 [main] DEBUG com.example.Task2.LocalizedLoggingApp - Старт програми. Ініціалізація локалі за замовчуванням.
+2026-11-07 17:02:12 [main] INFO  com.example.Task2.LocalizedLoggingApp - Мову інтерфейсу змінено на: uk
+2026-11-07 17:02:20 [main] DEBUG com.example.Task2.LocalizedLoggingApp - Користувач ввів значення: 1
+2026-11-07 17:02:20 [main] DEBUG com.example.Task2.LocalizedLoggingApp - Виконується робочий процес...
+2026-11-07 17:02:20 [main] INFO  com.example.Task2.LocalizedLoggingApp - Дію користувача успішно оброблено.
+2026-11-07 17:02:24 [main] DEBUG com.example.Task2.LocalizedLoggingApp - Користувач ввів значення: 2
+2026-11-07 17:02:24 [main] WARN  com.example.Task2.LocalizedLoggingApp - Спроба виконати потенційно небезпечну операцію!
+2026-11-07 17:02:24 [main] ERROR com.example.Task2.LocalizedLoggingApp - Сталася помилка ділення на нуль: 
+java.lang.ArithmeticException: / by zero
+	at com.example.Task2.LocalizedLoggingApp.main(LocalizedLoggingApp.java:58) [Lab10/:?]
+2026-11-07 17:02:27 [main] DEBUG com.example.Task2.LocalizedLoggingApp - Користувач ввів значення: 3
+2026-11-07 17:02:30 [main] INFO  com.example.Task2.LocalizedLoggingApp - Мову інтерфейсу змінено на: en
+2026-11-07 17:02:33 [main] DEBUG com.example.Task2.LocalizedLoggingApp - Користувач ввів значення: 4
+2026-11-07 17:02:33 [main] INFO  com.example.Task2.LocalizedLoggingApp - Програму успішно завершено користувачем.
