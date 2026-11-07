@@ -1,4 +1,4 @@
-package example.yakubin.Task4;
+package com.example.Task4;
 
 import java.util.Map;
 import java.util.Scanner;

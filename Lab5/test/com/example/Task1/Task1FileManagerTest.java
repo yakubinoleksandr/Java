@@ -1,4 +1,4 @@
-package example.yakubin.Task1;
+package com.example.Task1;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;

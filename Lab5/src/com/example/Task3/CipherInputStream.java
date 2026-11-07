@@ -1,4 +1,4 @@
-package example.yakubin.Task3;
+package com.example.Task3;
 
 import java.io.*;
 

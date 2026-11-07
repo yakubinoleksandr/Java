@@ -1,4 +1,4 @@
-package example.yakubin.Task1;
+package com.example.Task1;
 
 import java.io.IOException;
 import java.util.Scanner;
